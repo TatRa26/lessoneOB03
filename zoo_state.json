@@ -1,0 +1,582 @@
+{
+    "sections": [
+        {
+            "section_name": "Birds",
+            "animals": [
+                {
+                    "name": "Sparrow",
+                    "age": 2,
+                    "type": "Bird",
+                    "wingspan": "20 cm"
+                }
+            ]
+        },
+        {
+            "section_name": "Mammals",
+            "animals": [
+                {
+                    "name": "Lion",
+                    "age": 5,
+                    "type": "Mammal",
+                    "fur_color": "golden"
+                }
+            ]
+        },
+        {
+            "section_name": "Reptiles",
+            "animals": [
+                {
+                    "name": "Snake",
+                    "age": 3,
+                    "type": "Reptile",
+                    "scale_type": "smooth"
+                }
+            ]
+        },
+        {
+            "section_name": "Birds",
+            "animals": [
+                {
+                    "name": "Sparrow",
+                    "age": 2,
+                    "type": "Bird",
+                    "wingspan": "20 cm"
+                }
+            ]
+        },
+        {
+            "section_name": "Mammals",
+            "animals": [
+                {
+                    "name": "Lion",
+                    "age": 5,
+                    "type": "Mammal",
+                    "fur_color": "golden"
+                }
+            ]
+        },
+        {
+            "section_name": "Reptiles",
+            "animals": [
+                {
+                    "name": "Snake",
+                    "age": 3,
+                    "type": "Reptile",
+                    "scale_type": "smooth"
+                }
+            ]
+        },
+        {
+            "section_name": "Birds",
+            "animals": [
+                {
+                    "name": "Sparrow",
+                    "age": 2,
+                    "type": "Bird",
+                    "wingspan": "20 cm"
+                }
+            ]
+        },
+        {
+            "section_name": "Mammals",
+            "animals": [
+                {
+                    "name": "Lion",
+                    "age": 5,
+                    "type": "Mammal",
+                    "fur_color": "golden"
+                }
+            ]
+        },
+        {
+            "section_name": "Reptiles",
+            "animals": [
+                {
+                    "name": "Snake",
+                    "age": 3,
+                    "type": "Reptile",
+                    "scale_type": "smooth"
+                }
+            ]
+        },
+        {
+            "section_name": "Birds",
+            "animals": [
+                {
+                    "name": "Sparrow",
+                    "age": 2,
+                    "type": "Bird",
+                    "wingspan": "20 cm"
+                }
+            ]
+        },
+        {
+            "section_name": "Mammals",
+            "animals": [
+                {
+                    "name": "Lion",
+                    "age": 5,
+                    "type": "Mammal",
+                    "fur_color": "golden"
+                }
+            ]
+        },
+        {
+            "section_name": "Reptiles",
+            "animals": [
+                {
+                    "name": "Snake",
+                    "age": 3,
+                    "type": "Reptile",
+                    "scale_type": "smooth"
+                }
+            ]
+        },
+        {
+            "section_name": "Birds",
+            "animals": [
+                {
+                    "name": "\u0412\u043e\u0440\u043e\u0431\u0435\u0439",
+                    "age": 2,
+                    "type": "Bird",
+                    "wingspan": "20 cm"
+                }
+            ]
+        },
+        {
+            "section_name": "Mammals",
+            "animals": [
+                {
+                    "name": "\u041b\u0435\u0432",
+                    "age": 5,
+                    "type": "Mammal",
+                    "fur_color": "golden"
+                }
+            ]
+        },
+        {
+            "section_name": "Reptiles",
+            "animals": [
+                {
+                    "name": "\u0417\u043c\u0435\u044f",
+                    "age": 3,
+                    "type": "Reptile",
+                    "scale_type": "smooth"
+                }
+            ]
+        },
+        {
+            "section_name": "Birds",
+            "animals": [
+                {
+                    "name": "\u0412\u043e\u0440\u043e\u0431\u0435\u0439",
+                    "age": 2,
+                    "type": "Bird",
+                    "wingspan": "20 cm"
+                }
+            ]
+        },
+        {
+            "section_name": "Mammals",
+            "animals": [
+                {
+                    "name": "\u041b\u0435\u0432",
+                    "age": 5,
+                    "type": "Mammal",
+                    "fur_color": "golden"
+                }
+            ]
+        },
+        {
+            "section_name": "Reptiles",
+            "animals": [
+                {
+                    "name": "\u0417\u043c\u0435\u044f",
+                    "age": 3,
+                    "type": "Reptile",
+                    "scale_type": "smooth"
+                }
+            ]
+        },
+        {
+            "section_name": "\u041f\u0442\u0438\u0446\u044b",
+            "animals": [
+                {
+                    "name": "\u0412\u043e\u0440\u043e\u0431\u0435\u0439",
+                    "age": 2,
+                    "type": "Bird",
+                    "wingspan": "20 cm"
+                }
+            ]
+        },
+        {
+            "section_name": "Mammals",
+            "animals": [
+                {
+                    "name": "\u041b\u0435\u0432",
+                    "age": 5,
+                    "type": "Mammal",
+                    "fur_color": "golden"
+                }
+            ]
+        },
+        {
+            "section_name": "Reptiles",
+            "animals": [
+                {
+                    "name": "\u0417\u043c\u0435\u044f",
+                    "age": 3,
+                    "type": "Reptile",
+                    "scale_type": "smooth"
+                }
+            ]
+        },
+        {
+            "section_name": "\u041f\u0442\u0438\u0446\u044b",
+            "animals": [
+                {
+                    "name": "\u0412\u043e\u0440\u043e\u0431\u0435\u0439",
+                    "age": 2,
+                    "type": "Bird",
+                    "wingspan": "20 cm"
+                }
+            ]
+        },
+        {
+            "section_name": "Mammals",
+            "animals": [
+                {
+                    "name": "\u041b\u0435\u0432",
+                    "age": 5,
+                    "type": "Mammal",
+                    "fur_color": "\u0440\u044b\u0436\u0438\u0439"
+                }
+            ]
+        },
+        {
+            "section_name": "Reptiles",
+            "animals": [
+                {
+                    "name": "\u0417\u043c\u0435\u044f",
+                    "age": 3,
+                    "type": "Reptile",
+                    "scale_type": "\u0433\u043b\u0430\u0434\u043a\u0430\u044f"
+                }
+            ]
+        },
+        {
+            "section_name": "\u041f\u0442\u0438\u0446\u044b",
+            "animals": [
+                {
+                    "name": "\u0412\u043e\u0440\u043e\u0431\u0435\u0439",
+                    "age": 2,
+                    "type": "Bird",
+                    "wingspan": "20 cm"
+                }
+            ]
+        },
+        {
+            "section_name": "\u041c\u043b\u0435\u043a\u043e\u043f\u0438\u0442\u0430\u044e\u0449\u0438\u0435",
+            "animals": [
+                {
+                    "name": "\u041b\u0435\u0432",
+                    "age": 5,
+                    "type": "Mammal",
+                    "fur_color": "\u0440\u044b\u0436\u0438\u0439"
+                }
+            ]
+        },
+        {
+            "section_name": "\u0420\u0435\u043f\u0442\u0438\u043b\u0438\u0438",
+            "animals": [
+                {
+                    "name": "\u0417\u043c\u0435\u044f",
+                    "age": 3,
+                    "type": "Reptile",
+                    "scale_type": "\u0433\u043b\u0430\u0434\u043a\u0430\u044f"
+                }
+            ]
+        },
+        {
+            "section_name": "\u041f\u0442\u0438\u0446\u044b",
+            "animals": [
+                {
+                    "name": "\u0412\u043e\u0440\u043e\u0431\u0435\u0439",
+                    "age": 2,
+                    "type": "Bird",
+                    "wingspan": "20 cm"
+                }
+            ]
+        },
+        {
+            "section_name": "\u041c\u043b\u0435\u043a\u043e\u043f\u0438\u0442\u0430\u044e\u0449\u0438\u0435",
+            "animals": [
+                {
+                    "name": "\u041b\u0435\u0432",
+                    "age": 5,
+                    "type": "Mammal",
+                    "fur_color": "\u0440\u044b\u0436\u0438\u0439"
+                }
+            ]
+        },
+        {
+            "section_name": "\u0420\u0435\u043f\u0442\u0438\u043b\u0438\u0438",
+            "animals": [
+                {
+                    "name": "\u0417\u043c\u0435\u044f",
+                    "age": 3,
+                    "type": "Reptile",
+                    "scale_type": "\u0433\u043b\u0430\u0434\u043a\u0430\u044f"
+                }
+            ]
+        },
+        {
+            "section_name": "\u041f\u0442\u0438\u0446\u044b",
+            "animals": [
+                {
+                    "name": "\u0412\u043e\u0440\u043e\u0431\u0435\u0439",
+                    "age": 2,
+                    "type": "Bird",
+                    "wingspan": "20 cm"
+                }
+            ]
+        },
+        {
+            "section_name": "\u041c\u043b\u0435\u043a\u043e\u043f\u0438\u0442\u0430\u044e\u0449\u0438\u0435",
+            "animals": [
+                {
+                    "name": "\u041b\u0435\u0432",
+                    "age": 5,
+                    "type": "Mammal",
+                    "fur_color": "\u0440\u044b\u0436\u0438\u0439"
+                }
+            ]
+        },
+        {
+            "section_name": "\u0420\u0435\u043f\u0442\u0438\u043b\u0438\u0438",
+            "animals": [
+                {
+                    "name": "\u0417\u043c\u0435\u044f",
+                    "age": 3,
+                    "type": "Reptile",
+                    "scale_type": "\u0433\u043b\u0430\u0434\u043a\u0430\u044f"
+                }
+            ]
+        },
+        {
+            "section_name": "Birds",
+            "animals": [
+                {
+                    "name": "Sparrow",
+                    "age": 2,
+                    "type": "Bird",
+                    "wingspan": "20 cm"
+                }
+            ]
+        },
+        {
+            "section_name": "Mammals",
+            "animals": [
+                {
+                    "name": "Lion",
+                    "age": 5,
+                    "type": "Mammal",
+                    "fur_color": "golden"
+                }
+            ]
+        },
+        {
+            "section_name": "Reptiles",
+            "animals": [
+                {
+                    "name": "Snake",
+                    "age": 3,
+                    "type": "Reptile",
+                    "scale_type": "smooth"
+                }
+            ]
+        },
+        {
+            "section_name": "Birds",
+            "animals": [
+                {
+                    "name": "Sparrow",
+                    "age": 2,
+                    "type": "Bird",
+                    "wingspan": "20 cm"
+                }
+            ]
+        },
+        {
+            "section_name": "Mammals",
+            "animals": [
+                {
+                    "name": "Lion",
+                    "age": 5,
+                    "type": "Mammal",
+                    "fur_color": "golden"
+                }
+            ]
+        },
+        {
+            "section_name": "Reptiles",
+            "animals": [
+                {
+                    "name": "Snake",
+                    "age": 3,
+                    "type": "Reptile",
+                    "scale_type": "smooth"
+                }
+            ]
+        },
+        {
+            "section_name": "Birds",
+            "animals": [
+                {
+                    "name": "Sparrow",
+                    "age": 2,
+                    "type": "Bird",
+                    "wingspan": "20 cm"
+                }
+            ]
+        },
+        {
+            "section_name": "Mammals",
+            "animals": [
+                {
+                    "name": "Lion",
+                    "age": 5,
+                    "type": "Mammal",
+                    "fur_color": "golden"
+                }
+            ]
+        },
+        {
+            "section_name": "Reptiles",
+            "animals": [
+                {
+                    "name": "Snake",
+                    "age": 3,
+                    "type": "Reptile",
+                    "scale_type": "smooth"
+                }
+            ]
+        }
+    ],
+    "staff": {
+        "employees": [
+            {
+                "name": "John",
+                "position": "ZooKeeper"
+            },
+            {
+                "name": "Dr. Smith",
+                "position": "Veterinarian"
+            },
+            {
+                "name": "John",
+                "position": "ZooKeeper"
+            },
+            {
+                "name": "Dr. Smith",
+                "position": "Veterinarian"
+            },
+            {
+                "name": "John",
+                "position": "ZooKeeper"
+            },
+            {
+                "name": "Dr. Smith",
+                "position": "Veterinarian"
+            },
+            {
+                "name": "John",
+                "position": "ZooKeeper"
+            },
+            {
+                "name": "Dr. Smith",
+                "position": "Veterinarian"
+            },
+            {
+                "name": "John",
+                "position": "ZooKeeper"
+            },
+            {
+                "name": "Dr. Smith",
+                "position": "Veterinarian"
+            },
+            {
+                "name": "John",
+                "position": "ZooKeeper"
+            },
+            {
+                "name": "Dr. Smith",
+                "position": "Veterinarian"
+            },
+            {
+                "name": "John",
+                "position": "ZooKeeper"
+            },
+            {
+                "name": "Dr. Smith",
+                "position": "Veterinarian"
+            },
+            {
+                "name": "John",
+                "position": "ZooKeeper"
+            },
+            {
+                "name": "Dr. Smith",
+                "position": "Veterinarian"
+            },
+            {
+                "name": "\u0421\u043c\u043e\u0442\u0440\u0438\u0442\u0435\u043b\u044c",
+                "position": "ZooKeeper"
+            },
+            {
+                "name": "\u0412\u0435\u0442\u0435\u0440\u0438\u043d\u0430\u0440",
+                "position": "Veterinarian"
+            },
+            {
+                "name": "\u0421\u043c\u043e\u0442\u0440\u0438\u0442\u0435\u043b\u044c",
+                "position": "ZooKeeper"
+            },
+            {
+                "name": "\u0412\u0435\u0442\u0435\u0440\u0438\u043d\u0430\u0440",
+                "position": "Veterinarian"
+            },
+            {
+                "name": "\u0421\u043c\u043e\u0442\u0440\u0438\u0442\u0435\u043b\u044c",
+                "position": "ZooKeeper"
+            },
+            {
+                "name": "\u0412\u0435\u0442\u0435\u0440\u0438\u043d\u0430\u0440",
+                "position": "Veterinarian"
+            },
+            {
+                "name": "John",
+                "position": "ZooKeeper"
+            },
+            {
+                "name": "Dr. Smith",
+                "position": "Veterinarian"
+            },
+            {
+                "name": "John",
+                "position": "ZooKeeper"
+            },
+            {
+                "name": "Dr. Smith",
+                "position": "Veterinarian"
+            },
+            {
+                "name": "John",
+                "position": "ZooKeeper"
+            },
+            {
+                "name": "Dr. Smith",
+                "position": "Veterinarian"
+            }
+        ]
+    }
+}
